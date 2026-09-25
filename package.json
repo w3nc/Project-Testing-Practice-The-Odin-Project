@@ -1,0 +1,25 @@
+{
+  "name": "project-testing-practice-the-odin-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3nc/Project-Testing-Practice-The-Odin-Project.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/w3nc/Project-Testing-Practice-The-Odin-Project/issues"
+  },
+  "homepage": "https://github.com/w3nc/Project-Testing-Practice-The-Odin-Project#readme",
+  "devDependencies": {
+    "@babel/core": "^8.0.6",
+    "@babel/preset-env": "^8.0.6",
+    "babel-jest": "^30.5.2",
+    "jest": "^30.5.2"
+  }
+}
